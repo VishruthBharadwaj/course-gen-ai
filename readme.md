@@ -37,7 +37,7 @@ This project is a **multi-agent system** designed to generate complete education
 ### 1️⃣ Clone the repository
 
 ```sh
-git clone https://github.com/your-repo/course-gen-ai.git
+git clone https://github.com/VishruthBharadwaj/course-gen-ai.git
 cd course-gen-ai
 ```
 
